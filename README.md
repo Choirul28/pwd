@@ -12,9 +12,9 @@ This software is a Windows alternative to the Unix `pwd` command. It can be call
 
 ## :rocket: Getting Started / 入门指南
 
-To use this software, simply download the `pwd.exe` file from the repository and save it to a directory in your PATH. Then, open a command prompt and call `pwd.exe` with the desired arguments.
+To use this software, simply download the `pwd.exe` file from the [release](https://github.com/xxnuo/pwd/releases) and save it to a directory in your PATH. Then, open a command prompt and call `pwd.exe` with the desired arguments.
 
-使用本软件，只需从代码库中下载 `pwd.exe` 文件并保存到 PATH 中的目录中。然后，打开命令提示符并使用所需的参数调用 `pwd.exe`。
+使用本软件，只需从 [Release](https://github.com/xxnuo/pwd/releases) 中下载 `pwd.exe` 文件并保存到 PATH 中的目录中。然后，打开命令提示符并使用所需的参数调用 `pwd.exe`。
 
 ## :hammer: Building from Source / 从源代码构建
 
