@@ -1,6 +1,6 @@
 # :computer: Windows pwd / Windows pwd
 
-![Github Stars](https://img.shields.io/github/stars/xxnuo/pwd?style=social)
+[Homepage / 主页](https://github.com/xxnuo/pwd)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
